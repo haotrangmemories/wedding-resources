@@ -1,0 +1,107 @@
+{
+  "details": {
+    "brideName": "Thùy Trang",
+    "brideCharName": "T",
+    "brideFullName": "Lương Thị Thùy Trang",
+    "brideImages": [
+      "/images/103A4430.JPG",
+      "/images/103A5003.JPG"
+    ],
+    "groomName": "Tiểu Hảo",
+    "groomCharName": "H",
+    "groomFullName": "Lương Tiểu Hảo",
+    "groomImages": [
+      "/images/103A4858.JPG",
+      "/images/PIKE0628.JPG"
+    ],
+    "weddingDate": [
+      "2025-12-07",
+      "2025-12-14"
+    ],
+    "storyTitle": "Our Love Story",
+    "storyBody": "Share your beautiful journey with your guests here. Talk about how you met, the proposal, and what you love most about each other.\n\nThis is your space to tell the story that led to this special day. We're so excited for you to be a part of it!",
+    "storyImage": "/images/PIKE0741.JPG",
+    "eventsTitle": "Schedule of Events",
+    "eventsDescription": "Here are the key events for our celebration. Feel free to add more, like a rehearsal dinner or a morning-after brunch!",
+    "galleryTitle": "Our Favorite Moments",
+    "galleryDescription": "A collection of photos that tell our story. Upload your favorite pictures together!",
+    "rsvpTitle": "Will You Be Joining Us?",
+    "rsvpDescription": "Please let us know your plans by December 1st, 2025. We can't wait to celebrate with you!",
+    "footerMessage": "Thank you for being a part of our special day!",
+    "events": [
+      {
+        "name": "Lễ Vu Quy",
+        "time": "2025-12-07 09:00:00",
+        "venue": "Tư gia",
+        "address": "Xuân Đông - Vạn Hưng - Vạn Ninh - Khánh Hòa"
+      },
+      {
+        "name": "Tiệc nhà gái",
+        "time": "2025-12-07 11:00:00",
+        "venue": "Tư gia",
+        "address": "Xuân Đông - Vạn Hưng - Vạn Ninh - Khánh Hòa",
+        "mapLink": "https://maps.google.com"
+      },
+      {
+        "name": "Lễ Tân Hôn",
+        "time": "2025-12-14 09:00:00",
+        "venue": "Tư gia",
+        "address": "Lê Lợi - Chợ Mới - An Giang"
+      },
+      {
+        "name": "Tiệc nhà trai",
+        "time": "2025-12-14 10:30:00",
+        "venue": "Mộc Garden",
+        "address": "Nguyễn Hữu Cảnh - Chợ Mới - An Giang",
+        "mapLink": "https://maps.google.com"
+      }
+    ]
+  },
+  "galleryImages": [
+    "/images/103A4238.JPG",
+    "/images/103A4294.JPG",
+    "/images/103A4466.JPG",
+    "/images/103A4862.JPG",
+    "/images/103A5003.JPG",
+    "/images/PIKE0741.JPG"
+  ],
+  "galleryImagesRandom": [
+    "https://picsum.photos/1000/1800?random=5",
+    "https://picsum.photos/700/1200?random=6",
+    "https://picsum.photos/600/800?random=7",
+    "https://picsum.photos/1600/800?random=8",
+    "https://picsum.photos/1200/800?random=9",
+    "https://picsum.photos/1200/800?random=10",
+    "https://picsum.photos/800/1200?random=11",
+    "https://picsum.photos/800/800?random=12",
+    "https://picsum.photos/1600/900?random=13",
+    "https://picsum.photos/800/1200?random=14",
+    "https://picsum.photos/1300/800?random=15",
+    "https://picsum.photos/1800/900?random=16"
+  ],
+  "music": [
+    "/music/Love-Paradise.mp3",
+    "/music/Only-You.mp3"
+  ],
+  "theme": {
+    "primaryColor": "#a84343",
+    "secondaryColor": "#fde8e8",
+    "fontColor": "#4a4a4a",
+    "heroImage": "/images/103A4663.JPG",
+    "heroImageBlur": 0,
+    "eventsImage": "/images/PIKE0741.JPG",
+    "eventsImageBlur": 10,
+    "cursorEffect": "hearts",
+    "galleryAnimation": "slide",
+    "rsvpImage": "/images/PIKE0734.JPG"
+  },
+  "integrations": {
+    "telegram": {
+      "botToken": "8421668063:AAFyhluFZ1kmGOiLXX7y3Gn-4nVQ99zR1Zc",
+      "chatIds": [
+        "1442966234",
+        "-1003268354602"
+      ]
+    }
+  }
+}

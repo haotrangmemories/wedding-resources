@@ -19,16 +19,16 @@
       "2025-12-07",
       "2025-12-14"
     ],
-    "storyTitle": "Our Love Story",
-    "storyBody": "Share your beautiful journey with your guests here. Talk about how you met, the proposal, and what you love most about each other.\n\nThis is your space to tell the story that led to this special day. We're so excited for you to be a part of it!",
+    "storyTitle": "Câu Chuyện Tình Yêu",
+    "storyBody": "Hai từ để miêu tả chuyện tình của chúng tôi? Chính là <b>Định Mệnh</b> và <b>Hài Hước</b>.\n\nChuyện là, sau mười mấy năm tốt nghiệp đại học, cứ ngỡ duyên phận đã đứt đoạn, thì chúng mình lại tìm thấy nhau một cách bất ngờ! Lần đầu tiên <b>Trang</b> và <b>Hảo</b> chính thức gặp nhau là một buổi đi xem phim. Ai mà ngờ được, từ cuộc gặp gỡ sau nhiều năm xa cách đó, chúng tôi lại bắt đầu một hành trình yêu đương đầy ắp tiếng cười và những câu chuyện \"<b>cười ra nước mắt</b>\"!\n\nĐiều <b>Hảo</b> yêu nhất ở <b>Trang</b> có lẽ là khả năng biến những điều nhỏ nhặt thành niềm vui lớn, và cách cô ấy làm cho mọi thứ trở nên nhẹ nhàng, vui vẻ hơn. Còn <b>Trang</b> thì \"đổ gục\" trước sự ân cần, luôn biết cách làm <b>Trang</b> bất ngờ và đặc biệt là sự chân thành, ấm áp của <b>Hảo</b>!\n\nLời cầu hôn? Đó là một màn kịch đáng nhớ! <b>Hảo</b> đã \"dàn cảnh\" chia tay: <b>\"Anh nghĩ mình nên dừng mối quan hệ này ở đây...\"</b>, khiến <b>Trang</b> thật sự bất ngờ và thốt lên câu: <b>\"Giỡn hoài ba...\"</b>. Ngay sau đó, sự thật được tiết lộ bằng chiếc nhẫn lấp lánh, và cả hai chúng tôi cùng vui mừng <b>rơi nước mắt</b> trong khoảnh khắc đó. Chúng tôi đã không chỉ nói '<b>Vâng</b>' với nhau, mà còn nói '<b>Vâng</b>' với một tương lai rộn ràng, hứa hẹn sẽ luôn nắm chặt tay nhau như buổi hẹn hò đầu tiên.\n\nChúng tôi đang rất háo hức được cùng nhau xây dựng tổ ấm này, và không thể chờ đợi để có một gia đình '<b>đặc biệt</b>' như chính tình yêu của mình. Cảm ơn các bạn đã đến để '<b>quẩy</b>' cùng chúng tôi trong ngày trọng đại này!",
     "storyImage": "/images/PIKE0662.JPG",
-    "eventsTitle": "Schedule of Events",
-    "eventsDescription": "Here are the key events for our celebration. Feel free to add more, like a rehearsal dinner or a morning-after brunch!",
-    "galleryTitle": "Our Favorite Moments",
-    "galleryDescription": "A collection of photos that tell our story. Upload your favorite pictures together!",
-    "rsvpTitle": "Will You Be Joining Us?",
-    "rsvpDescription": "Please let us know your plans by December 1st, 2025. We can't wait to celebrate with you!",
-    "footerMessage": "Thank you for being a part of our special day!",
+    "eventsTitle": "Lịch Trình Sự Kiện",
+    "eventsDescription": "Đây là lịch trình các sự kiện chính trong ngày vui của chúng tôi.",
+    "galleryTitle": "Khoảnh Khắc",
+    "galleryDescription": "Album ảnh ghi lại những khoảnh khắc đáng nhớ trên hành trình tình yêu của chúng tôi.",
+    "rsvpTitle": "Xác Nhận Tham Dự",
+    "rsvpDescription": "Sự hiện diện của bạn là món quà quý giá nhất đối với Trang & Hảo.\n\nVui lòng xác nhận tham dự trước ngày 01/12/2025 để chúng mình có sự chuẩn bị chu đáo nhất!",
+    "footerMessage": "Xin chân thành cảm ơn bạn vì đã dành thời gian và tình cảm để chung vui cùng Trang & Hảo trong ngày đặc biệt này!",
     "events": [
       {
         "name": "Lễ Vu Quy",
@@ -41,7 +41,7 @@
         "time": "2025-12-07 11:00:00",
         "venue": "Tư gia",
         "address": "Xuân Đông - Vạn Hưng - Vạn Ninh - Khánh Hòa",
-        "mapLink": "https://maps.google.com"
+        "mapLink": "https://maps.app.goo.gl/AtCsmTr5J8ftSuN18"
       },
       {
         "name": "Lễ Tân Hôn",
@@ -54,13 +54,13 @@
         "time": "2025-12-14 10:30:00",
         "venue": "Mộc Garden",
         "address": "Nguyễn Hữu Cảnh - Chợ Mới - An Giang",
-        "mapLink": "https://maps.google.com"
+        "mapLink": "https://maps.app.goo.gl/bWpzDXdncHydDQnPA"
       }
     ]
   },
   "galleryStacks": [
     {
-      "name": "Concept 1",
+      "name": "",
       "images": [
         "/images/103A4246.JPG",
         "/images/103A4255.JPG",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Concept 2",
+      "name": "",
       "images": [
         "/images/103A4663.JPG",
         "/images/103A4855.JPG",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Concept 3",
+      "name": "",
       "images": [
         "/images/103A5003.JPG",
         "/images/103A5006.JPG",
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Concept 4",
+      "name": "",
       "images": [
         "/images/PIKE0485.JPG",
         "/images/PIKE0493.JPG",
@@ -201,7 +201,7 @@
     "secondaryColor": "#fde8e8",
     "fontColor": "#4a4a4a",
     "heroImage": "/images/103A4663.JPG",
-    "heroImageBlur": 0,
+    "heroImageBlur": 2,
     "eventsImage": "/images/103A5087.JPG",
     "eventsImageBlur": 10,
     "cursorEffect": "hearts",
@@ -216,5 +216,39 @@
         "-1003268354602"
       ]
     }
-  }
+  },
+  "guests": [
+    {
+      "id": "che-nhu",
+      "name": "Chế Như"
+    },
+    {
+      "id": "em-cuong",
+      "name": "Em Cường"
+    },
+    {
+      "id": "em-duy",
+      "name": "Em Duy"
+    },
+    {
+      "id": "ban-tuyen",
+      "name": "Bạn Tuyền"
+    },
+    {
+      "id": "ban-tuan",
+      "name":"Bạn Tuấn"
+    },
+    {
+      "id": "ban-oan",
+      "name":"Bạn Oanh"
+    },
+    {
+      "id": "ban-thi",
+      "name":"Bạn Thi"
+    },
+    {
+      "id": "ban-nhu",
+      "name":"Bạn Như"
+    }
+  ]
 }

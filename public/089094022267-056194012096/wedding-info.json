@@ -11,7 +11,8 @@
     "groomCharName": "H",
     "groomFullName": "Lương Tiểu Hảo",
     "groomImages": [
-      "/images/103A4858.jpg"
+      "/images/103A4858.jpg",
+      "/images/103A4855.jpg"
     ],
     "weddingDate": [
       "2025-12-07",
@@ -25,8 +26,8 @@
     "galleryTitle": "Khoảnh Khắc",
     "galleryDescription": "Album ảnh ghi lại những khoảnh khắc đáng nhớ trên hành trình tình yêu của chúng tôi.",
     "rsvpTitle": "Xác Nhận Tham Dự",
-    "rsvpDescription": "Sự hiện diện của bạn là món quà quý giá nhất đối với Trang & Hảo.\n\nVui lòng xác nhận tham dự trước ngày 01/12/2025 để chúng mình có sự chuẩn bị chu đáo nhất!",
-    "footerMessage": "Xin chân thành cảm ơn bạn vì đã dành thời gian và tình cảm để chung vui cùng Trang & Hảo trong ngày đặc biệt này!",
+    "rsvpDescription": "Sự hiện diện của bạn là món quà quý giá nhất đối với Hảo & Trang.\n\nVui lòng xác nhận tham dự trước ngày 01/12/2025 để chúng mình có sự chuẩn bị chu đáo nhất!",
+    "footerMessage": "Xin chân thành cảm ơn bạn vì đã dành thời gian và tình cảm để chung vui cùng Hảo & Trang trong ngày đặc biệt này!",
     "events": [
       {
         "name": "Lễ Vu Quy",
@@ -71,7 +72,8 @@
       "images": [
         "/images/PIKE0503.jpg",
         "/images/PIKE0568.jpg",
-        "/images/PIKE0700.jpg"
+        "/images/PIKE0700.jpg",
+        "/images/PIKE0734.jpg"
       ]
     }
   ],
@@ -82,7 +84,8 @@
     "/images/103A4553.jpg",
     "/images/PIKE0503.jpg",
     "/images/PIKE0568.jpg",
-    "/images/PIKE0700.jpg"
+    "/images/PIKE0700.jpg",
+    "/images/PIKE0734.jpg"
   ],
   "music": [
     "/music/Love-Paradise.mp3",
@@ -93,7 +96,7 @@
     "secondaryColor": "#fde8e8",
     "fontColor": "#4a4a4a",
     "heroImage": "/images/PIKE0499.jpg",
-    "heroImageBlur": 2,
+    "heroImageBlur": 0,
     "eventsImage": "/images/103A5076.jpg",
     "eventsImageBlur": 10,
     "cursorEffect": "hearts",
@@ -128,19 +131,19 @@
     },
     {
       "id": "ban-tuan",
-      "name":"Bạn Tuấn"
+      "name": "Bạn Tuấn"
     },
     {
       "id": "ban-oan",
-      "name":"Bạn Oanh"
+      "name": "Bạn Oanh"
     },
     {
       "id": "ban-thi",
-      "name":"Bạn Thi"
+      "name": "Bạn Thi"
     },
     {
       "id": "ban-nhu",
-      "name":"Bạn Như"
+      "name": "Bạn Như"
     }
   ]
 }

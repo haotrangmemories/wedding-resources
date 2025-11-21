@@ -1,0 +1,147 @@
+{
+  "details": {
+    "brideName": "Thùy Trang",
+    "brideCharName": "T",
+    "brideFullName": "Lương Thị Thùy Trang",
+    "brideImages": [
+      "https://filestorage.luongtieuhao.io.vn/file/019aa09bae25b179a40c55ba7018cc98/4Mfzji3tuA5oEJs5/103A4436.jpg?quality=0.95",
+      "https://filestorage.luongtieuhao.io.vn/file/019aa09b9fecfdc90cd54282fb9387fb/nczTOjrQI5TT9TJz/103A4430.jpg?quality=0.95"
+    ],
+    "groomName": "Tiểu Hảo",
+    "groomCharName": "H",
+    "groomFullName": "Lương Tiểu Hảo",
+    "groomImages": [
+      "https://filestorage.luongtieuhao.io.vn/file/019aa09c4466c77dec42f28809cf001c/2wJGKbK8qg9q15id/103A4858.jpg?quality=0.95",
+      "https://filestorage.luongtieuhao.io.vn/file/019aa09c355a5b7fbc7c8c4f976bd404/efzwgz48aNU3rAxx/103A4855.jpg?quality=0.95"
+    ],
+    "weddingDate": [
+      "2025-12-07",
+      "2025-12-14"
+    ],
+    "storyTitle": "Câu Chuyện Tình Yêu",
+    "storyBody": "<p>Hảo biết Trang từ những ngày đầu của 4 năm học đại học. Tuy rằng cùng Khoa Môi Trường nhưng hai đứa không chung lớp với nhau. Cả hai đều có khoảng trời riêng của mình trong suốt hành trình 4 năm đó.</p><p><br></p><p>Rồi vào một ngày xuân đẹp trời của 10 năm sau khi ra trường, cả hai đã vô tình gặp lại nhau, đây có lẽ là buổi gặp gỡ định mệnh mà ông Tơ bà Nguyệt đã se duyên cho chúng mình. Không thể ngờ được, từ cuộc gặp gỡ tưởng chừng lướt qua nhau như hai người bạn cùng trường năm nào, chúng mình lại bắt đầu một hành trình yêu thương đầy ắp tiếng cười và thử thách.</p><p><br></p><p>“Sóng gió Gia Tộc” là cách nói hài hước của chúng mình mỗi khi nhắc lại những thử thách mà gia đình Trang đã ngăn cản vì hai đứa cùng họ Lương với nhau. Nhưng rồi với sự chân thành và dẫn dắt của gia tiên thì chúng mình cũng được gia đình chấp thuận để tìm hiểu nhau. </p><p><br></p><p>Điều Hảo yêu nhất ở Trang có lẽ là khả năng biến những điều nhỏ nhặt thành niềm vui lớn, và cách Trang làm cho mọi thứ trở nên nhẹ nhàng, vui vẻ hơn. Còn Trang thì “đổ gục” trước sự ân cần, luôn biết cách làm Trang bất ngờ và đặc biệt là sự chân thành, ấm áp của Hảo. </p><p><br></p><p>Ở Trang và Hảo mọi người sẽ thấy có nhiều điều đối lập nhau. Nhưng chính sự đối lập đó lại giúp nhau cố gắng và hoàn thiện hơn. Ở cạnh nhau, cả hai được sống là chính mình mà không phải cố gắng hoàn hảo trước mặt đối phương.</p><p><br></p><p>Và rồi điều gì đến cũng đến, Hảo đã cầu hôn Trang vào một ngày mà Trang không ngờ nhất. Có lẽ giây phút Trang gật đầu đồng ý là giây phút ý nghĩa nhất trong hành trình yêu thương của hai đứa mình. Chúng mình đã không những nói “Đồng ý” với nhau, mà còn nói “Đồng ý” với một tương lai dài phía trước, hứa hẹn sẽ luôn nắm chặt tay nhau như buổi hẹn hò đầu tiên. </p><p><br></p><p>Chúng mình đang rất háo hức và chờ đợi để cùng nhau xây dựng tổ ấm này một cách thật “đặc biệt” như chính tình yêu của mình. Chúng mình sẽ vô cùng biết ơn và trân quý sự hiện diện của bạn trong ngày trọng đại này!</p>",
+    "storyImage": "https://filestorage.luongtieuhao.io.vn/file/019aa09da37dbbaf21407e1e716efb36/1GXe6xkoQKf6yf7O/PIKE0662.jpg?quality=0.95",
+    "eventsTitle": "Lịch Trình Sự Kiện",
+    "eventsDescription": "Đây là lịch trình các sự kiện chính trong ngày vui của chúng mình.",
+    "galleryTitle": "Khoảnh Khắc",
+    "galleryDescription": "Album ảnh ghi lại những khoảnh khắc đáng nhớ trên hành trình tình yêu của chúng mình.",
+    "rsvpTitle": "Xác Nhận Tham Dự",
+    "rsvpDescription": "Sự hiện diện của bạn là món quà quý giá nhất đối với Hảo & Trang.\n\nVui lòng xác nhận tham dự trước ngày 01/12/2025 để chúng mình có sự chuẩn bị chu đáo nhất!",
+    "footerMessage": "Xin chân thành cảm ơn bạn vì đã dành thời gian và tình cảm để chung vui cùng Hảo & Trang trong ngày đặc biệt này!",
+    "events": [
+      {
+        "name": "Lễ Vu Quy",
+        "time": "2025-12-07 09:00:00",
+        "venue": "Tư gia",
+        "address": "Xuân Đông - Vạn Hưng - Vạn Ninh - Khánh Hòa"
+      },
+      {
+        "name": "Tiệc nhà gái",
+        "time": "2025-12-07 11:00:00",
+        "venue": "Tư gia",
+        "address": "Xuân Đông - Vạn Hưng - Vạn Ninh - Khánh Hòa",
+        "mapLink": "https://maps.app.goo.gl/AtCsmTr5J8ftSuN18"
+      },
+      {
+        "name": "Lễ Tân Hôn",
+        "time": "2025-12-14 09:00:00",
+        "venue": "Tư gia",
+        "address": "Lê Lợi - Chợ Mới - An Giang"
+      },
+      {
+        "name": "Tiệc nhà trai",
+        "time": "2025-12-14 10:30:00",
+        "venue": "Mộc Garden",
+        "address": "Nguyễn Hữu Cảnh - Chợ Mới - An Giang",
+        "mapLink": "https://maps.app.goo.gl/bWpzDXdncHydDQnPA"
+      }
+    ]
+  },
+  "galleryStacks": [
+    {
+      "name": "",
+      "images": [
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09adf5cbadfcf59a1a5a0143646/LvTRLNlq0xCgTvIy/103A4255.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09af9e642ae2b1a5adeb65bf946/rHNeXEFa8RcONxk1/103A4271.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09b2ea7abfe2588a0704a98a081/Ly2JLyG9XALPu09y/103A4295.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09b476023b4481113c90e958354/NN7XwpdXJXDZNffy/103A4314.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09b606ab9281cdc24f3dfad0830/CSABzMk1boOd9usU/103A4331.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09b7876d08def4043a16c820f7e/GB2PCVrv6xk1gUmO/103A4365.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09bba49b609221ac3921dd7b2ec/ROURB0akspCOTHc6/103A4466.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09c0904b5574ae22396d1c95498/BvKwI0EdPB95lDqs/103A4553.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09c17762128ff6919013cdd734b/EfmymJrvVCiUfIfA/103A4571.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09b91cdbff54355f281a02f3ba6/qPaQMJhjAjmgpWUQ/103A4420.jpg?quality=0.95"
+      ]
+    },
+    {
+      "name": "",
+      "images": [
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09c9db1a43fa1c8757c43c3dc82/WpPah2Aum6rlhdjM/103A5006.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09cbc174d76f0a430d4f0199d27/IL1saP3nCaAPV3yn/103A5032.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09cca4293c1ae478e0a83bbe1c8/oxnMKYUjJCCCpxKj/103A5076.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09ce88308c0d1362c5d7457d2af/SanhOq8PV6fzak99/103A5081.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09cf737a4460c304a4aa52034d6/nAAW67RjY2VBuvbI/103A5087.jpg?quality=0.95"
+      ]
+    },
+    {
+      "name": "",
+      "images": [
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09d25a31e63d9f714d4974a04b3/MJYKYT8jkvGb05qe/PIKE0493.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09d493c15221c5018c53befc0f5/5qb1eB5gZ5ahQmIP/PIKE0503.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09d5c31fcf557c46fd27984030f/oQacb5pV4sV5VcEC/PIKE0534.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09d9209443032de35745e378ac7/r2dp95jJ740LKMMd/PIKE0643.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09dd7321a4abdd8a71bde935a6a/bzhfQCrJsRbxJ0vH/PIKE0700.jpg?quality=0.95",
+        "https://filestorage.luongtieuhao.io.vn/file/019aa09dea69722563ce601dd8936aae/EJ42vpuvDjdaVdhC/PIKE0710.jpg?quality=0.95"
+      ]
+    }
+  ],
+  "galleryImages": [
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09adf5cbadfcf59a1a5a0143646/LvTRLNlq0xCgTvIy/103A4255.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09af9e642ae2b1a5adeb65bf946/rHNeXEFa8RcONxk1/103A4271.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09b2ea7abfe2588a0704a98a081/Ly2JLyG9XALPu09y/103A4295.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09b476023b4481113c90e958354/NN7XwpdXJXDZNffy/103A4314.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09b606ab9281cdc24f3dfad0830/CSABzMk1boOd9usU/103A4331.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09b7876d08def4043a16c820f7e/GB2PCVrv6xk1gUmO/103A4365.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09bba49b609221ac3921dd7b2ec/ROURB0akspCOTHc6/103A4466.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09c0904b5574ae22396d1c95498/BvKwI0EdPB95lDqs/103A4553.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09c17762128ff6919013cdd734b/EfmymJrvVCiUfIfA/103A4571.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09b91cdbff54355f281a02f3ba6/qPaQMJhjAjmgpWUQ/103A4420.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09c9db1a43fa1c8757c43c3dc82/WpPah2Aum6rlhdjM/103A5006.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09cbc174d76f0a430d4f0199d27/IL1saP3nCaAPV3yn/103A5032.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09cca4293c1ae478e0a83bbe1c8/oxnMKYUjJCCCpxKj/103A5076.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09ce88308c0d1362c5d7457d2af/SanhOq8PV6fzak99/103A5081.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09cf737a4460c304a4aa52034d6/nAAW67RjY2VBuvbI/103A5087.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09d25a31e63d9f714d4974a04b3/MJYKYT8jkvGb05qe/PIKE0493.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09d493c15221c5018c53befc0f5/5qb1eB5gZ5ahQmIP/PIKE0503.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09d5c31fcf557c46fd27984030f/oQacb5pV4sV5VcEC/PIKE0534.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09d9209443032de35745e378ac7/r2dp95jJ740LKMMd/PIKE0643.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09dd7321a4abdd8a71bde935a6a/bzhfQCrJsRbxJ0vH/PIKE0700.jpg?quality=0.95",
+    "https://filestorage.luongtieuhao.io.vn/file/019aa09dea69722563ce601dd8936aae/EJ42vpuvDjdaVdhC/PIKE0710.jpg?quality=0.95"
+  ],
+  "music": [
+    "https://wedding-resources.onrender.com/089094022267-056194012096/music/Love-Paradise.mp3",
+    "https://wedding-resources.onrender.com/089094022267-056194012096/music/Only-You.mp3"
+  ],
+  "theme": {
+    "primaryColor": "#a84343",
+    "secondaryColor": "#fde8e8",
+    "fontColor": "#4a4a4a",
+    "heroImage": "https://filestorage.luongtieuhao.io.vn/file/019aa09d371db29d3fc67db9368fc40e/LJsSYYzFhQ0AxVQn/PIKE0499.jpg?quality=0.95",
+    "heroImageBlur": 0,
+    "heroImagePosition": "center 25%",
+    "eventsImage": "https://filestorage.luongtieuhao.io.vn/file/019aa09cca4293c1ae478e0a83bbe1c8/oxnMKYUjJCCCpxKj/103A5076.jpg?quality=0.95",
+    "eventsImageBlur": 10,
+    "cursorEffect": "hearts",
+    "galleryDisplayType": "stack",
+    "rsvpImage": "https://filestorage.luongtieuhao.io.vn/file/019aa09dfd54a148328e9ff723a8f1e2/ZeuourqIQkmHbRzB/PIKE0734.jpg?quality=0.95"
+  },
+  "integrations": {
+    "telegram": {
+      "botToken": "8421668063:AAFyhluFZ1kmGOiLXX7y3Gn-4nVQ99zR1Zc",
+      "chatIds": [
+        "1442966234",
+        "-1003268354602"
+      ]
+    }
+  }
+}
